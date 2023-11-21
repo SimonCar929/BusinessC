@@ -1,0 +1,38 @@
+Inondazione edificio secondario:
+
+Valore asset: 150.000 €
+EF: 40%
+Aro: 1 volta ogni 50 anni
+
+SLE= 150.000 x 0.4 = 60.000 €
+
+ALE= 60.000 x 0.005= 3000 €
+
+
+Terremoto Data Center:
+
+Valore asset: 100.000 €
+EF: 95%
+Aro: 1 volta ogni 30 anni
+
+SLE= 100.000 x 0.95 = 95.000 €
+
+ALE= 95.000 x 0.03 = 2.850 €
+
+
+Incendio edificio primario:
+
+Valore asset: 350.000 €
+EF: 60%
+Aro: 1 volta ogni 20 anni
+
+SLE= 350.000 x 0.95 = 332.500 €
+
+ALE= 332.500 x 0,002 = 665 €
+
+
+AV = Valore asset
+ARO = numero di volte stimato dell’evento in un anno
+EF = Exposure Factor
+SLE = Single Loss Expectancy
+ALE = Annualized Loss Expectancy
